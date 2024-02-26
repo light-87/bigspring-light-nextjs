@@ -4,9 +4,10 @@ layout: "contact"
 draft: false
 info: 
   title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  description: Contact PMR Industries for high-quality vehicle fluids. Our dedicated team ensures top-notch products and customer service. Reach out for bulk and retail inquiries or to learn more about our advanced manufacturing process for DEF, coolants, and DM Water.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Phone: +91 7020143332"
+    - "Alternate phone: +91 7030847030"
+    - "Mail: [pbgaydhane@gmail.com](mailto:pbgaydhane@gmail.com)"
+    - "Address: PMR Industries, Manegaon, 441804, Maharashtra, India"
 ---

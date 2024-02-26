@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "PMR Industries",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
@@ -17,7 +17,7 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Order Now",
     "link": "/contact"
   },
 
@@ -25,7 +25,7 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "copyright": "Designed and Developed By Vaibhav Talekar😉"
   },
 
   "metadata": {

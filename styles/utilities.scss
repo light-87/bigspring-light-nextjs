@@ -6,3 +6,16 @@ strong {
 .shadow {
   @apply shadow-[0_12px_24px_-6px_rgba(45,67,121,0.1)]
 }
+
+// SCSS styles for the WhatsApp instruction text
+.whatsapp-instruction {
+  display: inline-block; // Make the element inline for background shaping
+  background-color: #25D366; // WhatsApp brand green color
+  color: #ffffff; // White text color
+  padding: 8px 20px; // Some padding around the text
+  border-radius: 20px; // Oval shape
+  font-weight: bold; // Bold text
+  margin-top: 1rem; // Margin at the top
+  text-align: center; // Center the text
+  // Add more styling here if needed
+}
